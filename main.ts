@@ -8,5 +8,5 @@ let twohalffish = images.createBigImage(`
     . . # . . . . . . .
     `)
 basic.forever(function () {
-    twohalffish.scrollImage(1, 200)
+    twohalffish.scrollImage(1, 100)
 })
